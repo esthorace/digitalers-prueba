@@ -8,7 +8,7 @@
 
 - [Enteros](/1_enteros.py)
 
-- [Flotantes](/2.decimales.py)
+- [Flotantes](/2_decimales.py)
 
 - Cadenas de texto
 
