@@ -20,7 +20,7 @@
 
 - Conjuntos
 
-- Diccionarios
+- [Diccionarios](/7_diccionarios.py)
 
 
 
